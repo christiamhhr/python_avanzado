@@ -1,0 +1,6 @@
+hola desde python.
+segunda linea.
+Esta es otra linea con r+.
+Eesta es otra linea con r+.
+Eesta es otra linea con r+.
+Eesta es otra linea con r+.
